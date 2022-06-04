@@ -9,8 +9,4 @@ case $1 in
 	;;
 esac
 
-if [[ "$1" = "purge" ]]; then
-	rm -rf /root/NotWireshark/
-fi
-
 #DEBHELPER#

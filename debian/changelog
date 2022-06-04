@@ -1,3 +1,9 @@
+notwireshark (20220226-2kaisen) kaisen-packages; urgency=medium
+
+  * Remove the deletion of the /root/notwireshark when the package is purge
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sat, 04 Jun 2022 03:25:03 +0100
+
 notwireshark (20220226-1kaisen) kaisen-packages; urgency=medium
 
   * First packaging for Kaisen Linux
